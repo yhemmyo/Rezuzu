@@ -1,0 +1,27 @@
+body{
+background-color: lightcyan;
+
+}
+.header {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    text-align: center;
+    background-color: lightsalmon;
+    border: dotted black;
+    border-radius: 35px;
+  
+   
+}
+
+
+.sub {
+    text-align: center;
+    color: gray;
+}
+.row {
+    border: solid gray;
+    border-radius: 20px;
+    padding: 10px;
+    position: absolute;
+    background-color: bisque;
+}
